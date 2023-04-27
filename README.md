@@ -8,6 +8,7 @@ To view the recoded pages in your browser use this link for the homepage: https:
 and this link for the education page: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/EducationPage.html
 
 To view the individual components: 
+
 Navbar: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/navbar.html
 
 Mission Statement: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/missionstatement.html
