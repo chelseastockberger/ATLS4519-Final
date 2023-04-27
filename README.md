@@ -5,16 +5,16 @@ HomePage.html and EducationPage.html are the files where we recoded certain comp
 
 To view the recoded pages in your browser use this link for the homepage: https://chelseastockberger.github.io/ATLS4519-Final/HomePage.html
 
-and this link for the education page: https://github.com/chelseastockberger/ATLS4519-Final/blob/main/EducationPage.html
+and this link for the education page: https://chelseastockberger.github.io/ATLS4519-Final/EducationPage.html
 
 To view the individual components: 
 
-Navbar: https://github.com/chelseastockberger/ATLS4519-Final/blob/main/navbar.html
+Navbar: https://chelseastockberger.github.io/ATLS4519-Final/navbar.html
 
-Mission Statement: https://github.com/chelseastockberger/ATLS4519-Final/missionstatement.html 
+Mission Statement: https://chelseastockberger.github.io/ATLS4519-Final/missionstatement.html 
 
-Member Experience: https://github.com/chelseastockberger/ATLS4519-Final/memberexperience.html
+Member Experience: https://chelseastockberger.github.io/ATLS4519-Final/memberexperience.html
 
-News Section: https://github.com/chelseastockberger/ATLS4519-Final/newssection.html
+News Section: https://chelseastockberger.github.io/ATLS4519-Final/newssection.html
 
-Education:https://github.com/chelseastockberger/ATLS4519-Final/education.html
+Education: https://chelseastockberger.github.io/ATLS4519-Final/education.html
