@@ -11,7 +11,7 @@ To view the individual components:
 
 Navbar: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/navbar.html
 
-Mission Statement: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/missionstatement.html
+Mission Statement: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/missionstatement.html 
 
 Member Experience: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/memberexperience.html
 
