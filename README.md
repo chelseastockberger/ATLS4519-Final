@@ -9,7 +9,11 @@ and this link for the education page: https://htmlpreview.github.io/?https://git
 
 To view the individual components: 
 Navbar: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/navbar.html
+
 Mission Statement: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/missionstatement.html
+
 Member Experience: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/memberexperience.html
+
 News Section: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/newssection.html
+
 Education: https://htmlpreview.github.io/?https://github.com/chelseastockberger/ATLS4519-Final/blob/main/education.html
